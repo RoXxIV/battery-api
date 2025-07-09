@@ -1,4 +1,3 @@
-// controllers/batteryController.js
 const Battery = require("../models/Battery");
 
 exports.getAllBatteries = async (req, res) => {
